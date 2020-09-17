@@ -47,7 +47,3 @@ def blackjack_score(hand)
 
 		return hand_value
 	end
-
-
-
-#
